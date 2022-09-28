@@ -1,2 +1,7 @@
-#probability of the occurance of sun, lunar and rising signs together
+#probability of the occurance of sun, moon and rising signs together
 
+import requests 
+
+sun_sign = input("What is your sun sign?")
+moon_sign = input("What is your moon sign?")
+rising_sign = input("What is your rising sun?") 
